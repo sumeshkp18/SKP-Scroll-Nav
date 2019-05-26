@@ -7,8 +7,8 @@ SKP Scroll Nav
 
 To start working with SKP Scroll Nav right away, there's a couple of files need to be downloaded:
 
-- [skpscrollnav.css](https://github.com/sumeshkp18/SKP-Scroll-Nav)
-- [skpscrollnav.js](https://github.com/sumeshkp18/SKP-Scroll-Nav)
+- [skpscrollnav.css](https://github.com/sumeshkp18/SKP-Scroll-Nav/tree/master/dist/assets/css)
+- [skpscrollnav.js](https://github.com/sumeshkp18/SKP-Scroll-Nav/tree/master/dist/assets/js)
 
 #### Implementation of SkpScrollNav
 
